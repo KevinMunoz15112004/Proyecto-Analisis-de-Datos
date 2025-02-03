@@ -1,8 +1,8 @@
 # Proyecto-Analisis-de-Datos
 
-## Enlace a los recursos utilizados
+## Enlace a la presentación
 
-https://epnecuador-my.sharepoint.com/:f:/g/personal/kevin_munoz07_epn_edu_ec/EjUsl5-e1pdPtWDI6wUOQWwBE2jN8-TQCyTeN3vgKzCcpg?e=jHPtIX
+https://www.canva.com/design/DAGd-cIRBlY/1GE3PSPxgE0aqL7sKlZV8Q/edit?utm_content=DAGd-cIRBlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Página usada para los DataSets
 
