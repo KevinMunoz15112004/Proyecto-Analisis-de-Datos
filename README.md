@@ -72,6 +72,18 @@ Finalmente el SQL Server la información se podrá visualizar si el proceso ha t
 
 ![image](https://github.com/user-attachments/assets/1550cb2c-54fc-4061-8019-dc513f5208c9)
 
+## Análisis de sentimientos
+
+Se realizó el análisis de sentimientos usando TextBlob y Pandas en los datos correspondientes, esto se logró usando el siguiente código:
+
+![image](https://github.com/user-attachments/assets/24ababf5-b1e3-40a4-bb9e-4e41bbca7a65)
+
+![image](https://github.com/user-attachments/assets/07452002-59b8-4eda-bb70-1c4a27fccf0c)
+
+
+
+
+
 
 
 
