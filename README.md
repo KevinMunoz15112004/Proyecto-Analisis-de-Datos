@@ -10,9 +10,22 @@ https://www.kaggle.com/
 
 ## Paso de información entre archivos
 
-El paso de información desde un JSON a CSV:
+El paso de información desde un JSON a CSV, se lo hizo mediante el siguiente código de Python:
 
 ![image](https://github.com/user-attachments/assets/8fc84cf3-e87e-4f3b-bbc5-b741cd6abc90)
+
+Desde un CSV a JSON se lo hizo mediante:
+
+![image](https://github.com/user-attachments/assets/ca03cb66-525a-403e-9704-9f5784299ddc)
+
+Si el proceso tiene éxito, se generarán los respectivo archivo:
+
+![image](https://github.com/user-attachments/assets/2ebec375-6070-4fb7-841d-1af4ce2d5518)
+
+![image](https://github.com/user-attachments/assets/b7d0b562-0465-42da-ad22-93e13d6252aa)
+
+
+
 
 
 
