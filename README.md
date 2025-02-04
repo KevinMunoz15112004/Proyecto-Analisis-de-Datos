@@ -1,5 +1,7 @@
 # Proyecto-Analisis-de-Datos
 
+Kevin Muñoz y Kevin Almeida
+
 ## Enlace a la presentación
 
 https://www.canva.com/design/DAGd-cIRBlY/1GE3PSPxgE0aqL7sKlZV8Q/edit?utm_content=DAGd-cIRBlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -79,6 +81,13 @@ Se realizó el análisis de sentimientos usando TextBlob y Pandas en los datos c
 ![image](https://github.com/user-attachments/assets/24ababf5-b1e3-40a4-bb9e-4e41bbca7a65)
 
 ![image](https://github.com/user-attachments/assets/07452002-59b8-4eda-bb70-1c4a27fccf0c)
+
+## Enlace a videos explicativos
+
+Video 1: https://youtu.be/DHKfFfz3WHw
+
+Video 2: https://www.youtube.com/watch?v=Z2c7-sC1qzA
+
 
 
 
